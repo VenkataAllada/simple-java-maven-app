@@ -43,7 +43,7 @@ How to Build and Run
 1. Clone the Repository (if applicable)
 If this project is in a repository, you can clone it using:
 
-git clone https://github.com/VenkataAllada/simple-java-maven-app.git
+git clone https://github.com/your-repository.git
 
 cd simple-java-maven-app.git
 
