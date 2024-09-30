@@ -1,8 +1,13 @@
 package com.example;
 
 public class App {
+    public String getMessage() {
+        return "Hello, Java 17 with Maven!";
+    }
+
     public static void main(String[] args) {
-        System.out.println("Hello, Maven!");
+        App app = new App();
+        System.out.println(app.getMessage());
     }
 }
 
